@@ -1,0 +1,10 @@
+qiskit==1.4.2
+matplotlib
+notebook
+Instructions:
+1.Save the above text in a file named requirements.txt in the root of your project directory.
+2.To install all dependencies in one command, run:
+3.pip install -r requirements.txt
+Notes:
+1.Python 3.12.4 is not listed in requirements.txt because Python versions are usually managed separately using tools like pyenv or conda.
+VS Code is also not included, as it’s an external application and not a Python package.
