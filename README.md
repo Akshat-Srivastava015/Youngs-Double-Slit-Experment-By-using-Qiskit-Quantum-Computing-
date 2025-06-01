@@ -27,25 +27,24 @@ Structure
 └── images/ # Output plots and diagrams
 Example Output
 
-> Photon hit distribution with clear interference fringes shown using Qiskit’s histogram visualization.
-
+[Screenshot 2025-06-01 145555](https://github.com/user-attachments/assets/111a5ed1-6a2c-4d40-92dc-5f4e40104947)
 
 
 Getting Started
 
-1. Clone this repository:
+1.Clone this repository:
 git@github.com:Akshat-Srivastava015/Youngs-Double-Slit-Experment-By-using-Qiskit-Quantum-Computing-.git
 
-2.	Install dependencies:
+2.Install dependencies:
 install -r requirements.txt
 
-3.	Run the simulation notebook in Jupyter:
-bashCopyEditjupyter notebook ydse_qiskit.ipynb
+3.Run the simulation notebook in Jupyter:
+jupyter notebook ydse_qiskit.ipynb
 
 
 License
 This project is open-source under the MIT License.
 
 Acknowledgments
-•	Developed as part of a quantum computing research initiative.
-•	Special thanks to IBM Qiskit and open-source contributors.
+•Developed as part of a quantum computing research initiative.
+•Special thanks to IBM Qiskit and open-source contributors.
